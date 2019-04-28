@@ -3,6 +3,7 @@ By-Animesh kumar(20010457)
 
 
 software required
+
 1.node
 
 2.visual studio code
@@ -21,13 +22,15 @@ How to Configure application..
   
 How to Run Application
 
-1..from the root folder write this command:-
+1.from the root folder write this command:-
+
       npm run dev
 
       
 How to Test Application
 
 1..from the root folder write this command:-
+
 npm run test
 
 
@@ -35,10 +38,12 @@ npm run test
 Note:--
 
 Currently Showing Weather of London..
+
 You can change the city name also...
 
 How to change---
 
 
 Open index.js under root folder..
+
 Change City name of your choice like..Ranchi,Bangalore,Chennai...
