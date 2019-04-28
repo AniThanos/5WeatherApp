@@ -1,0 +1,29 @@
+.mainWeatherCard {
+  width: 15%;
+  float: left;
+  border-radius: 5px;
+  margin: 7px;
+  font-variant: all-small-caps;
+    font-family: inherit;
+    box-shadow: 2px 2px #cecbcb;
+}
+
+.left-panel{
+  width:80%
+}
+.right-panel{
+  width:20%
+}
+.temperature{
+  text-align: center;
+  margin-bottom: 5px;
+}
+.imagecss{
+  width:40%
+}
+
+.header{
+  font-size: 3vw;
+  padding-top: 15px;
+  color:#ffffff;
+}
