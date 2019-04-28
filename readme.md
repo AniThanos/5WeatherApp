@@ -13,11 +13,11 @@ How to Configure application..
 5.After installation process is over..come to root folder (use this command cd ..)
   
 How to Run Application
-from the root folder write this command:-
+1..from the root folder write this command:-
       npm run dev
       
 How to Test Application
-from the root folder write this command:-
+1..from the root folder write this command:-
 npm run test
 
 
