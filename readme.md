@@ -2,12 +2,12 @@
 By-Animesh kumar(20010457)
 
 software required
---node
---visual studio code
+1.node
+2.visual studio code
 
 How to Configure application..
 Open Terminal from visual studio code
---git clone https://github.com/AniThanos/5WeatherApp.git
+--git clone https://github.com/AniThanos/5WeatherApp.git .
 --run npm install in root folder.After installing...
 --go to client folder(using this command== cd client) and then again type npm install...
 After installation process is over..come to root folder (use this command cd ..)
