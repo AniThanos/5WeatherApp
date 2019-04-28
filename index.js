@@ -4,8 +4,9 @@ const axios = require("axios");
 const cors = require("cors");
 
 app.use(cors());
+const port = process.env.port || 3006;
 
-app.listen(3006, console.log("Listening 3006"));
+app.listen(port, console.log(`Listening ${port}`));
 
 let appId = "9e9f1b5959068abc3a1e3c8cec297a19";
 let cityname = "London";
