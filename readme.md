@@ -6,11 +6,11 @@ software required
 2.visual studio code
 
 How to Configure application..
-Open Terminal from visual studio code
---git clone https://github.com/AniThanos/5WeatherApp.git .
---run npm install in root folder.After installing...
---go to client folder(using this command== cd client) and then again type npm install...
-After installation process is over..come to root folder (use this command cd ..)
+1.Open Terminal from visual studio code
+2.git clone https://github.com/AniThanos/5WeatherApp.git .
+3.run npm install in root folder.After installing...
+4.go to client folder(using this command== cd client) and then again type npm install...
+5.After installation process is over..come to root folder (use this command cd ..)
   
 How to Run Application
 from the root folder write this command:-
