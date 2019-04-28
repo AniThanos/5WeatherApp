@@ -31,7 +31,7 @@ How to Test Application
 
 1..from the root folder write this command:-
 
-npm run test
+    npm run test
 
 
 
