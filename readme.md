@@ -27,6 +27,11 @@ How to Run Application
       npm run dev
 
       
+2.Go to Browser and Type :-
+
+    http://localhost:3000/
+
+
 How to Test Application
 
 1..from the root folder write this command:-
