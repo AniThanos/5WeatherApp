@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const axios = require("axios");
 const cors = require("cors");
-
+const alert = require('alert-node');
 app.use(cors());
 const port = process.env.port || 3006;
 
@@ -40,9 +40,13 @@ app.get("/", (req, res) => {
       res.send(fiveDay);
     })
     .catch(err => {
-      console.log(err);
+      if (err) {
+        alert("City Not Found.Try Again with different name")
+      }
     });
 });
+
+
 
 module.exports = app;
 //export default app;

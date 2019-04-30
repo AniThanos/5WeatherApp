@@ -38,12 +38,13 @@ class card extends React.Component {
         break;
       case 5:
         this.setState({ nowday: "Friday" });
-
         break;
       case 6:
         this.setState({ nowday: "Saturday" });
-
         break;
+
+      default: this.setState({ nowday: "" });
+
     }
 
     switch (this.state.data.desc[0]) {
@@ -77,7 +78,7 @@ class card extends React.Component {
               <div className="temperature">{this.state.data.temperature} C<sub style={{ bottom: "0.75em" }}>o</sub><br /></div>
               <div className="">
 
-                <img src={this.state.image} className="imagecss" />
+                <img src={this.state.image} className="imagecss" alt="icon" />
               </div>
               <label>{this.state.data.desc}</label>
               <br />
