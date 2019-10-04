@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/5WeatherApp/static/css/main.262791bf.chunk.css",
+    "main.js": "/5WeatherApp/static/js/main.e92f7166.chunk.js",
+    "main.js.map": "/5WeatherApp/static/js/main.e92f7166.chunk.js.map",
+    "runtime~main.js": "/5WeatherApp/static/js/runtime~main.98356e61.js",
+    "runtime~main.js.map": "/5WeatherApp/static/js/runtime~main.98356e61.js.map",
+    "static/js/2.c9133855.chunk.js": "/5WeatherApp/static/js/2.c9133855.chunk.js",
+    "static/js/2.c9133855.chunk.js.map": "/5WeatherApp/static/js/2.c9133855.chunk.js.map",
+    "index.html": "/5WeatherApp/index.html",
+    "precache-manifest.d5fca02397817bf76bb21ec00ac4c342.js": "/5WeatherApp/precache-manifest.d5fca02397817bf76bb21ec00ac4c342.js",
+    "service-worker.js": "/5WeatherApp/service-worker.js",
+    "static/css/main.262791bf.chunk.css.map": "/5WeatherApp/static/css/main.262791bf.chunk.css.map",
+    "static/media/clouds.png": "/5WeatherApp/static/media/clouds.a1cb48a6.png",
+    "static/media/rain.png": "/5WeatherApp/static/media/rain.afed3627.png",
+    "static/media/sun.png": "/5WeatherApp/static/media/sun.176637e3.png",
+    "static/media/sunny.png": "/5WeatherApp/static/media/sunny.782c0c0f.png"
+  }
+}
